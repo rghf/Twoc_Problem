@@ -1,0 +1,7 @@
+name,branch,gender,collegeName=input("Enter your Name,Branch,Gender,College Name: ").split()
+age = int(input("Enter your Age: "))
+print("Name:",name)
+print("Branch:",branch)
+print("Gender:",gender)
+print("College Name:",collegeName)
+print("Age:",age)
